@@ -27,7 +27,7 @@ header{
     .place{
         width: 90%;
         height: 168px;
-        max-width: 900px;
+        max-width: 450px;
         min-width: 300px;
         display: flex;
         justify-content: center;
