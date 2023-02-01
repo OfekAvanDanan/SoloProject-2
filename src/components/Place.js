@@ -1,5 +1,5 @@
 import { ReactSVG } from "react-svg";
-import pinIcon from "./objects/pinIcon.svg"
+import pinIcon from "../pinIcon.svg"
 
 
 export default function Place (props) {
